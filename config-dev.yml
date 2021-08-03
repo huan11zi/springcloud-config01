@@ -1,2 +1,2 @@
-springcloud:
-  config:{name=2222,version=1}
+config:
+  info: {name=2222,version=1}
